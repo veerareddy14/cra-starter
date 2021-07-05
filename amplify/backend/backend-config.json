@@ -20,5 +20,19 @@
         }
       }
     }
+  },
+  "auth": {
+    "crastarter9cf328cb": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  },
+  "storage": {
+    "s34d588520": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation"
+    }
   }
 }

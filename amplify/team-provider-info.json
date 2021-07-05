@@ -10,6 +10,11 @@
       "StackName": "amplify-crastarter-devy-172506",
       "StackId": "arn:aws:cloudformation:ap-south-1:558034872506:stack/amplify-crastarter-devy-172506/f1517a80-ddb5-11eb-aa9b-0a02e1733e84",
       "AmplifyAppId": "d1ptgvxqikzw3j"
+    },
+    "categories": {
+      "auth": {
+        "crastarter9cf328cb": {}
+      }
     }
   },
   "staging": {
